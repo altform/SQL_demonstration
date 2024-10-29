@@ -1,0 +1,22 @@
+INSERT INTO products (product_id, product_name, category, price, stock)
+VALUES 
+(1, 'orange soda', 'drinks', 1.99, 85),
+(2, 'grape soda', 'drinks', 1.89, 45),
+(3, 'coke', 'drinks', 3.99, 62),
+(4, 'water', 'drinks', .99, 800),
+(5, 'ring dings', 'snacks', 5.99, 70),
+(6, 'chips', 'snacks', 2.99, 89),
+(7, 'popcorn', 'snacks', 1.99, 300),
+(8, 'goldfish', 'snacks', 2.89, 39),
+(9, 'steak', 'meat', 12.99, 18),
+(10, 'chicken', 'meat', 8.99, 24),
+(11, 'fish', 'meat', 9.99, 12),
+(12, 'broccoli', 'produce', .99, 128),
+(13, 'peppers', 'produce', .79, 107),
+(14, 'green beans', 'produce', .19, 999),
+(15, 'strawberry', 'produce', 1.39, 641),
+(16, 'corn', 'produce', 5.18, 423),
+(17, 'tape', 'grocery', 1.25, 45),
+(18, 'paper plates', 'grocery', 1.29, 314),
+(19, 'paper cups', 'grocery', 1.22, 195),
+(20, 'trash bags', 'grocery', 4.29, 162);
