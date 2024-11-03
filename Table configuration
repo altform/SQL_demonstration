@@ -1,7 +1,7 @@
-#Table Configuration
+#Table Configuration#
 This section will document how relational table was set up and configured. 500 rows, no
 
-## Table initiation
+##Table initiation##
 
 4 talbes were created for my fictional database set up
 **1. Customer Table**
