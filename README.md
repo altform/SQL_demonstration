@@ -11,10 +11,11 @@ sqlite3 ecommerce.db
 ```
 An SQL script was written to define the following tables:
 
-**customers:** Contains customer-specific data.
-**products:** Stores information for 20 products.
-**orders: **Includes order details such as the customer who placed the order, the date, and the total amount.
-**order_items:** Breaks down each order by product, specifying the quantity ordered per item.
+- **customers:** Contains customer-specific data.
+- **products:** Stores information for 20 products.
+- **orders:** Includes order details such as the customer who placed the order, the date, and the total amount.
+- **order_items:** Breaks down each order by product, specifying the quantity ordered per item.
+  
 For detailed table configurations, please see [Table Configuration Doc](<Table_configuration.md>)
 
 ## Generating Test Data
