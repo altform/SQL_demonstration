@@ -10,13 +10,13 @@ Next I wrote an SQL query to create the tables I wanted:
 - orders is the list of order information, who made the order, when, and how much
 - order_items breaks down how much product is ordered
 
-Reference the [Table Configuration.md](<Table Configuration.md>) for the specifics of how that was set up. 
+Reference the [Table Configuration.md](<Table_configuration.md>) for the specifics of how that was set up. 
 
 ##Creating the test data
 1. Using 3 python files
   - [order_items_sampleData](<order_items_sampleData.py>)
   - [order_sampleData](<orders_sampleData.py>)
-  - [customer_sampleData](<customers_sampleData_script.sql>)
+  - [customer_sampleData](<customers_sampleData_script.pw>)
 2. 1 SQL script
   - [product_sampleData_script](<product_sampleData_script.sql>)
 
