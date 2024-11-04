@@ -22,7 +22,7 @@ Four tables were created for this fictional e-commerce database.
 
 ### 3. Orders Table
 - **Order ID** (Primary Key): A unique, auto-incremented identifier for each order.
-- **Customer ID**: Links the order to a customer by a randomly assigned ID between 1 and 500.
+- **Customer ID**: Links the order to a customer by a randomly assigned ID between 1 and 550.
 - **Order Date**: A randomly generated date representing when the order was placed.
 - **Total Amount**: The total monetary value of the order.
 
