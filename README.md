@@ -28,5 +28,5 @@ To populate the database with sample data, I used both Python scripts and SQL:
 **SQL Script**
   - [product_sampleData_script](<product_sampleData_script.sql>)
     
-##Custom Data View
+## Custom Data View
 To demonstrate SQL querying capabilities, I created a custom view that retrieves a comprehensive dataset, including customer details (ID, first name, and last name), products ordered, order ID, and order totals. This view leverages inner joins across the relevant tables to consolidate the data into a single, cohesive output.
