@@ -16,7 +16,7 @@ Reference the [Table Configuration.md](<Table_configuration.md>) for the specifi
 1. Using 3 python files
   - [order_items_sampleData](<order_items_sampleData.py>)
   - [order_sampleData](<orders_sampleData.py>)
-  - [customer_sampleData](<customers_sampleData_script.pw>)
+  - [customer_sampleData](<customers_sampleData_script.py>)
 2. 1 SQL script
   - [product_sampleData_script](<product_sampleData_script.sql>)
 
