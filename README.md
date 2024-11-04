@@ -15,10 +15,10 @@ Reference the [Table Configuration.md](<Table Configuration.md>) for the specifi
 ##Creating the test data
 1. Using 3 python files
   - [order_items_sampleData](<order_items_sampleData.py>)
-  - [order_sampleData](<order_sampleData.py>)
-  - [customer_sampleData](<order_sampleData.py>)
+  - [order_sampleData](<orders_sampleData.py>)
+  - [customer_sampleData](<customers_sampleData_script.sql>)
 2. 1 SQL script
-  - [product_sampleData_script](<customer_sampleData_script.sql>)
+  - [product_sampleData_script](<product_sampleData_script.sql>)
 
 ### Custom View
 
