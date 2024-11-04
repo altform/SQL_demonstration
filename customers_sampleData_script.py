@@ -35,7 +35,7 @@ def insert_sample_data(n):
             # If there's a conflict with the UNIQUE email constraint, skip that row
             print(f"Duplicate email found: {email}, skipping insertion.")
 
-# Generate 100 sample rows of data
+# Generate 50 sample rows of data
 insert_sample_data(50)
 
 # Commit the transaction and close the connection
