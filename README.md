@@ -13,6 +13,13 @@ Next I wrote an SQL query to create the tables I wanted:
 Reference the [Table Configuration.md](<Table Configuration.md>) for the specifics of how that was set up. 
 
 ##Creating the test data
-Using 3 python files [order_items_sampleData](<order_items_sampleData.py>), [order_sampleData](<order_sampleData.py>), [customer_sampleData](<order_sampleData.py>) and an SQL script [product_sampleData_script](<customer_sampleData_script.sql>)
+1. Using 3 python files
+  - [order_items_sampleData](<order_items_sampleData.py>)
+  - [order_sampleData](<order_sampleData.py>)
+  - [customer_sampleData](<order_sampleData.py>)
+2. 1 SQL script
+  - [product_sampleData_script](<customer_sampleData_script.sql>)
 
 ### Custom View
+
+For this I created a simple query that would pull the customers ID, first name, last name, products they ordered, their order id and total, then joined them all with an inner join to create the new dataset. 
